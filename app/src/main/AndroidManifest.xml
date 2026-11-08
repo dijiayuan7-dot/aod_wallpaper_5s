@@ -1,0 +1,7 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <application android:theme="@style/AppTheme" android:label="AOD Wallpaper 5s" android:allowBackup="false" android:hasCode="true">
+        <meta-data android:name="xposedmodule" android:value="true" />
+        <meta-data android:name="xposeddescription" android:value="Keep Doze wallpaper visible for 5 seconds, then suspend" />
+        <meta-data android:name="xposedminversion" android:value="93" />
+    </application>
+</manifest>
